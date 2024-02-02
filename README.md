@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kshitij079
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Css and JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m A Wordpress Developer
+- 🌱 I’m currently learning Backend with react
+- 💞️ I’m looking to collaborate on many WordPress websites includeing who commerce
 - 📫 How to reach me ...
 
 <!---
